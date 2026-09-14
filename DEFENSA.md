@@ -1,5 +1,12 @@
 # Defensa 
 
+## Integrantes de laboratorio
+- Alisson Denisse Quijano Guzmán - 20245233
+- Melisa Eugenia Rivas Linares - 20245324
+- Lorena Alejandra Arriola González - 20245416
+- Christian Odir Renderos Laínez - 20245266
+- Gabriel Enrique Martínez Carballo - 20245120
+
 ## 1. Decisión sobre el estado
 
 El estado, es decir la lista de asistentes junto con la marca de quien está
