@@ -4,6 +4,13 @@ App de Flutter con una sola pantalla que registra la asistencia de un grupo:
 lista dinamica con `ListView.builder`, estado local centralizado en un
 `StatefulWidget`, y acciones para marcar a todos presentes o reiniciar.
 
+## Integrantes de laboratorio
+- Alisson Denisse Quijano Guzmán - 20245233
+- Melisa Eugenia Rivas Linares - 20245324
+- Lorena Alejandra Arriola González - 20245416
+- Christian Odir Renderos Laínez - 20245266
+- Gabriel Enrique Martínez Carballo - 20245120
+
 ## Como correrlo
 
 ```bash
