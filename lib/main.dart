@@ -19,7 +19,7 @@ class AsistenciaApp extends StatelessWidget {
         colorSchemeSeed: Colors.indigo,
         useMaterial3: true,
       ),
-      home: const AttendanceScreen(groupName: 'Chocolatinas'),
+      home: const AttendanceScreen(groupName: 'Chocolatina'),
     );
   }
 }
